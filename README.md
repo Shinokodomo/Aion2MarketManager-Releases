@@ -15,9 +15,13 @@
 
 ## Скачать и запустить
 
-Готовые Windows-версии размещаются в [Releases](https://github.com/Shinokodomo/Aion2MarketManager-Releases/releases).
+**[Скачать последнюю версию для Windows](https://github.com/Shinokodomo/Aion2MarketManager-Releases/releases/latest)**
 
-Скачай `Aion2MarketManager-Windows-Portable.zip`, распакуй в отдельную папку и запусти `Aion2MarketManager.exe`. Python устанавливать не нужно.
+1. В разделе **Assets** скачай `Aion2MarketManager-Windows-Portable.zip` — полный архив для первой установки.
+2. Распакуй его в отдельную папку, куда у тебя есть доступ на запись.
+3. Запусти `Aion2MarketManager.exe`. Python устанавливать не нужно. Аккаунт GitHub тоже не требуется.
+
+Файлы с названием `Delta-from-...` предназначены для встроенного обновлятора, а не для первой установки.
 
 ## Обновления
 
